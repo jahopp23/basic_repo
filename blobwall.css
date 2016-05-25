@@ -1,0 +1,39 @@
+h1{
+	font-family: arial; 
+	padding-left: 200px; 
+	font-size: 400%;
+}
+
+h5{
+	font-style: italic; 
+
+	padding-left: 700px; 
+}
+
+img{
+	display: inline-block;   
+	width: 600px; 
+	height: 350px; 
+	margin: 0px;  
+	padding-left: 40px; 
+}
+
+#text{
+
+	width:2000px; 
+	height: 100px;
+	display: inline-block;  
+	margin: 20px; 
+	font-style: italic; 
+}
+
+#images{
+	width: 2000px; 
+
+	background-color: white; 
+}
+
+h2 { 
+
+	margin: 75px;  
+}
